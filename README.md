@@ -6,7 +6,7 @@ This is a tool to predict whether you have a chance of having diabetes. The data
 
 In order to create a prediction model, a logistic regression was performed based on whether a participant does or does not have diabetes. The results are shown below:
 
-<img src="https://github.com/curikim123/Diabetes_Prediction/blob/master/images/Logistic%20Regression.png" width="100">
+<img src="https://github.com/curikim123/Diabetes_Prediction/blob/master/images/Logistic%20Regression.png" width="500">
 
 
 ![Logistic regression](https://github.com/curikim123/Diabetes_Prediction/blob/master/images/Logistic%20Regression.png =250x)
