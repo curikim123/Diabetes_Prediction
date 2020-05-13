@@ -1,4 +1,6 @@
-# Diabetes Prediction
+# Diabetes Prediction ([link](https://curikim123.shinyapps.io/diabetes/) to the app) 
+
+
 
 ## How the algorithm works
 
