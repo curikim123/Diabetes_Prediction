@@ -6,6 +6,9 @@ This is a tool to predict whether you have a chance of having diabetes. The data
 
 In order to create a prediction model, a logistic regression was performed based on whether a participant does or does not have diabetes. The results are shown below:
 
+<img src="https://github.com/curikim123/Diabetes_Prediction/blob/master/images/Logistic%20Regression.png" width="100">
+
+
 ![Logistic regression](https://github.com/curikim123/Diabetes_Prediction/blob/master/images/Logistic%20Regression.png =250x)
 
 Based on this, it was shown that the outcome is associated with four variables- BMI, age, blood pressure, and number of pregnancies- assuming p<0.05. Thus, these four varibles were set as the input variable for the prediction model. Based on this input the algorithm will calculate the percentage that you have diabetes.
